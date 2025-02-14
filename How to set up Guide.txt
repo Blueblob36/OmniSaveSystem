@@ -1,0 +1,5 @@
+First off thank you for reading this, second off thank you for downloading this! It means a lot to me that you did. 
+
+This will be your guide on how to set this up with ease, The first thing your going to do is unzip the files into a folder or onto your pc. Next you are going to go into a premade project of any kind from your file manager/explorer. Find the project that you made from documents > unreal projects > "Project Name" > content. Then take the files within-> Thirdperson, savesystem, and collectables. They need to be placed within the project. Then reboot the project, after rebooting the project you simply go into project settings and set the game instance to the save system. Thats all there is to it!
+
+Thanks once again and hopfully you can learn something new! Good luck!
